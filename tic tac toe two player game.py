@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jun 28 10:10:31 2021
-
-@author: nikhil
 """
 
 # Tic Tac Toe game with GUI
