@@ -3,7 +3,7 @@
 """
 Created on Mon Jun 28 10:10:31 2021
 """
-
+# Amar Kumar
 # Tic Tac Toe game with GUI
 # using tkinter
 
@@ -232,3 +232,5 @@ def play():
 if __name__ == '__main__':
 	play()
 
+
+# By Amar Kumar
