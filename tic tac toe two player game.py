@@ -3,7 +3,7 @@
 """
 Created on Mon Jun 28 10:10:31 2021
 """
-#  Amar Kumar
+# Amar Kumar
 # Tic Tac Toe game with GUI
 # using tkinter
 
